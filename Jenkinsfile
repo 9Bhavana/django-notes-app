@@ -1,4 +1,4 @@
-@Library("shared") _
+compos@Library("shared") _
 pipeline{
     agent {label "vinod"}
     stages {
